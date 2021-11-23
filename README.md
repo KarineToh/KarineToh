@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarineToh
 - 👀 I’m interested in becoming a data scientist 
-- 🌱 I’m currently learning SQL, python and tablaeu
+- 🌱 I’m currently learning SQL, python, tablaeu, and statistics
 - 💞️ I’m looking to collaborate on practice projects to widen my exposure on real world problems. Eventually making an impact with my projects.
 - 📫 How to reach me whatsapp +65 8518 9455, email karinetoh8888@gmail.com
 
